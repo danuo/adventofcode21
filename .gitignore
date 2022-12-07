@@ -1,5 +1,1 @@
-!*/
-*/*
-!*/*.ipynb
-!*/input
-!.gitignore
+*.py
